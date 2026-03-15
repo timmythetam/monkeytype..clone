@@ -1,0 +1,5 @@
+{
+  "name": "Monkeytype Clone",
+  "description": "A full-stack typing analytics website inspired by Monkeytype with real-time metrics, test history, and a user dashboard.",
+  "requestFramePermissions": []
+}
